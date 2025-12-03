@@ -59,3 +59,12 @@ export const Highlighted = {
       "This interpreter is featured in a top-rated movie, triggering the highlighted styles.",
   },
 };
+
+export const DiegoFernando = {
+  args: {
+    foto: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg/330px-TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg",
+    nombre: "Diego Fernando",
+    esNota10: false,
+    children: "This is a brief biography or description of the interpreter displayed within the card component."
+  }
+};
